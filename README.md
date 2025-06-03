@@ -36,7 +36,6 @@ AssemblerSimulationMaman14ShimonEsterkin/
 │   └── project_files_tests/    # Manual test runners for each pass
 ├── README.md                   # This file
 ├── makefile                    # Makefile for compilation and testing
-└── 
 ```
 
 ## Compilation
