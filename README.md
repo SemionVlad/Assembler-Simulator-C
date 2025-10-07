@@ -1,8 +1,10 @@
 # Maman 14 – Two-Pass Assembler in C
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 ## Author
 - **Name**: Shimon Esterkin  
-- **ID**: 207972258  
+- **ID**: *****2258  
 - **Course**: System Programming Laboratory (20465)  
 - **Semester**: 2025A
 
