@@ -79,8 +79,9 @@ Each invalid file was crafted to trigger a specific error:
 - Compiled using: `gcc -Wall -ansi -pedantic`
 - No external libraries used
 
+---
+
 ## 📄 License
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
----
 Created by [SemionVlad](https://github.com/SemionVlad) for academic and portfolio purposes. This repository is intended for **non-commercial**, **educational** sharing only.
