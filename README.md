@@ -1,3 +1,5 @@
+# Maman 14 – Two-Pass Assembler in C
+
 <!-- Badges: tech + license (static, no CI required) -->
 ![Language: C](https://img.shields.io/badge/Language-C-blue?logo=c)
 ![Standard: ISO C90](https://img.shields.io/badge/Standard-ISO%20C90-4c1)
@@ -7,8 +9,7 @@
 ![Scope: Academic](https://img.shields.io/badge/Scope-Academic-informational)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-
-# Maman 14 – Two-Pass Assembler in C
+> Two-pass assembler (C90): macro expansion → first pass (labels, data/string) → second pass (encoding) → outputs: .ob, .ent, .ext
 
 ## Author
 - **Name**: Shimon Esterkin  
